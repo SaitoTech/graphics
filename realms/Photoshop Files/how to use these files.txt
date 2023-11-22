@@ -1,0 +1,10 @@
+The text edition of every card is very straightforward, just paste Name/Type/Core text in the respective places, same with the power numbers, 
+for the Lore text, since these have a special spacing, is better to have the text in a paragraph of 7 to 8 words, at the moment of changing 
+the text, it will keep the same space between lines. 
+
+Placing the art should be easy for anyone too, just put the images as the last in the list of elements and change the size to fit in the 
+art window, make visible the card background (frame color), same with the mana icons and number, and should be ready to export. 
+
+These files were created by thinking that the Saito community could create their own designs for Realms, custom cards that could be added after
+review (due balance), so it should be easy to edit and straightforward to understand. If it's necessary we can upload a video of the process of 
+creating a card from scratch.
