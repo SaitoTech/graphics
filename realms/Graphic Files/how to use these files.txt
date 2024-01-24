@@ -1,5 +1,5 @@
-The text edition of every card is very straightforward, just paste Name/Type/Core text in the respective places, same with the power numbers, 
-for the Lore text, since these have a special spacing, is better to have the text in a paragraph of 7 to 8 words, at the moment of changing 
+The text edition of every card is very straightforward, paste Name/Type/Core text in the respective places, same with the power numbers, 
+for the Lore text, since these have a special spacing, it is better to have the text in a paragraph of 7 to 8 words, at the moment of changing 
 the text, it will keep the same space between lines. 
 
 Placing the art should be easy for anyone too, just put the images as the last in the list of elements and change the size to fit in the 
